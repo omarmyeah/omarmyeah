@@ -1,4 +1,7 @@
-## Hi there 👋
+💫 About Me:
+
+🌱 I’m currently learning about Fullstack web development.
+💬 DM me with any projects ideas or collabs, happy to work on projects.
 
 <!--
 **omarmyeah/omarmyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
