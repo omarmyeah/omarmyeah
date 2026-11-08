@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning about Fullstack web development.
+🌱 I’m currently learning about Fullstack web development. <br>
 💬 DM me with any projects ideas or collabs, happy to work on projects.
 
 <!--
